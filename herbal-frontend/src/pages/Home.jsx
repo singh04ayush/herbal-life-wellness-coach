@@ -69,30 +69,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Why Herbalife banner */}
-      <section className="py-16" style={{ background: 'linear-gradient(135deg, #e8f5e2, #d4edcf)' }}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 text-center">
-            {[
-              { icon: '🌿', number: '40+', label: 'Years of Science' },
-              { icon: '🌍', number: '90+', label: 'Countries' },
-              { icon: '👥', number: '7M+', label: 'Distributors' },
-              { icon: '🏆', number: '56+', label: 'Products' },
-            ].map(stat => (
-              <div key={stat.label} className="space-y-2">
-                <div className="text-3xl">{stat.icon}</div>
-                <p
-                  className="text-3xl sm:text-4xl font-bold"
-                  style={{ color: '#2d5a27', fontFamily: '"Caveat", cursive' }}
-                >
-                  {stat.number}
-                </p>
-                <p className="text-gray-600 text-sm font-medium">{stat.label}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+     
 
       <TestimonialSection />
       <ContactUsSection />

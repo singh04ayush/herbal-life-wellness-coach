@@ -45,7 +45,7 @@ const ProductCard = ({ product }) => {
         {imageUrl ? (
           <img
             src={imageUrl}
-            alt={product.thumbnail_image?.altText || product.product_name}
+            alt=""
             className="w-full h-full object-contain p-4 transition-transform duration-500 group-hover:scale-105"
           />
         ) : (

@@ -97,7 +97,7 @@ const ContactUsSection = () => {
                       required
                       value={form.name}
                       onChange={e => setForm({ ...form, name: e.target.value })}
-                      placeholder="Priya Sharma"
+                      placeholder="Rani Mishra"
                       className="w-full px-4 py-3 rounded-xl border border-green-200 bg-white focus:outline-none focus:ring-2 focus:border-transparent transition-all text-gray-800"
                       style={{ '--tw-ring-color': '#2d5a27' }}
                     />
@@ -110,7 +110,7 @@ const ContactUsSection = () => {
                       required
                       value={form.email}
                       onChange={e => setForm({ ...form, email: e.target.value })}
-                      placeholder="priya@example.com"
+                      placeholder="mishra@example.com"
                       className="w-full px-4 py-3 rounded-xl border border-green-200 bg-white focus:outline-none focus:ring-2 focus:border-transparent transition-all text-gray-800"
                     />
                   </div>

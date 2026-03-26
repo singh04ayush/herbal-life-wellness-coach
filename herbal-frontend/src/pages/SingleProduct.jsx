@@ -91,7 +91,7 @@ const SingleProduct = () => {
               {allImages.length > 0 ? (
                 <img
                   src={allImages[mainImage] || allImages[0]}
-                  alt={displayProduct.product_name}
+                  alt=""
                   className="w-full h-full object-contain p-8"
                   onError={e => { e.target.style.display = 'none'; }}
                 />

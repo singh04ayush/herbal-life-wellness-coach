@@ -4,7 +4,7 @@ import doodle3 from '../assets/doodle3.png';
 const testimonials = [
   {
     id: 1,
-    name: 'Priya Sharma',
+    name: 'Anjali Sharma',
     role: 'Fitness Enthusiast',
     location: 'Mumbai',
     quote: 'Formula 1 shakes changed my mornings completely. I\'ve lost 8 kg in 3 months without feeling deprived. The mango flavour is absolutely delicious!',

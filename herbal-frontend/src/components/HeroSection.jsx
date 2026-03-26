@@ -118,9 +118,9 @@ const HeroSection = () => {
             {/* Stats */}
             <div className="flex gap-8 justify-center lg:justify-start pt-4">
               {[
-                { value: '56+', label: 'Products' },
-                { value: '90+', label: 'Countries' },
-                { value: '40+', label: 'Years' },
+                { value: '50+', label: 'Products' },
+                { value: '5+', label: 'Countries' },
+                { value: '10+', label: 'Years' },
               ].map(stat => (
                 <div key={stat.label} className="text-center">
                   <p className="text-3xl font-bold" style={{ color: '#2d5a27' }}>{stat.value}</p>

@@ -12,7 +12,6 @@ const tabs = [
     heading: 'Achieve your nutrition goals',
     body: 'No matter your wellness goals, we have the nutritional products and support to help you succeed and build healthy habits. Our meal plans and shakes are scientifically formulated to keep you energised while supporting healthy weight management.',
     image: img2,
-    icon: '🥗',
     color: '#2d5a27',
   },
   {
@@ -21,7 +20,6 @@ const tabs = [
     heading: 'Step up your fitness',
     body: 'Whether you\'re looking to be more active, conquer new athletic challenges or beat your personal best, we\'ve got your back. Our fitness products can be personalised to meet your unique needs.',
     image: img3,
-    icon: '💪',
     color: '#3a7a32',
   },
   {
@@ -30,7 +28,6 @@ const tabs = [
     heading: 'Nourish your body right',
     body: 'Explore our product range and discover how you can enjoy balanced nutrition with our Core, Targeted, Sports Nutrition, Energy & Ayurvedic Nutrition that support your nutritional requirement on everyday basis.',
     image: img4,
-    icon: '🌿',
     color: '#4a8c42',
   },
   {
@@ -39,7 +36,6 @@ const tabs = [
     heading: 'Glow from within',
     body: 'Explore our product range and discover how you can enjoy balanced nutrition with our Core, Targeted, Sports Nutrition, Energy & Ayurvedic Nutrition that support your nutritional requirement on everyday basis.',
     image: img5,
-    icon: '✨',
     color: '#5e9e55',
   },
 ];
@@ -59,6 +55,15 @@ const FeaturesSection = () => {
       setAnimating(false);
     }, 300);
   };
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      if (!animating) {
+        handleTabChange((activeTab + 1) % tabs.length);
+      }
+    }, 5000); // 5 seconds
+    return () => clearInterval(interval);
+  }, [activeTab, animating]);
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -94,8 +99,8 @@ const FeaturesSection = () => {
         </div>
 
         {/* Tabs — matching reference image style */}
-        <div className="reveal mb-12 overflow-x-auto">
-          <div className="flex min-w-max border-b border-gray-200">
+        <div className="reveal mb-12">
+          <div className="flex flex-wrap gap-35 border-b border-gray-200">
             {tabs.map((tab, idx) => (
               <button
                 key={tab.id}
@@ -106,7 +111,6 @@ const FeaturesSection = () => {
                     : 'text-gray-500 hover:text-[#2d5a27]'
                 }`}
               >
-                <span>{tab.icon}</span>
                 {tab.label}
                 {activeTab === idx && (
                   <span
@@ -139,11 +143,6 @@ const FeaturesSection = () => {
             <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               {/* Text */}
               <div className="space-y-6 order-2 lg:order-1">
-                <div
-                  className="inline-flex items-center gap-2 text-4xl"
-                >
-                  {current.icon}
-                </div>
                 <h3
                   className="text-3xl sm:text-4xl font-bold"
                   style={{ color: '#1a3a16', fontFamily: '"Caveat", cursive' }}
