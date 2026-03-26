@@ -57,9 +57,8 @@ const ContactUsSection = () => {
             {/* Contact info */}
             <div className="space-y-4">
               {[
-                { icon: '📍', title: 'Visit Us', value: 'Mumbai, Maharashtra, India' },
-                { icon: '📞', title: 'Call Us', value: '+91 1800 123 4567' },
-                { icon: '✉️', title: 'Email Us', value: 'support@herbalife.in' },
+                { icon: '📍', title: 'Visit Us', value: 'Greater Noida, Uttar Pradesh, India' },
+                { icon: '✉️', title: 'Email Us', value: 'rani@coach.herbalife' },
               ].map(item => (
                 <div key={item.title} className="flex items-center gap-4">
                   <span className="text-2xl w-10 text-center">{item.icon}</span>

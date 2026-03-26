@@ -76,17 +76,16 @@ const Footer = () => {
             <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Contact</h3>
             <ul className="space-y-2 text-green-300 text-sm">
               <li>Greater Noida, India</li>
-              <li>+91 1800 123 4567</li>
               <li>rani@coach.herbalife</li>
             </ul>
           </div>
         </div>
 
-        <div className="mt-12 pt-6 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
+        <div className="mt-6 pt-3 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-green-400 text-xs">
-            © 2026 Herbalife International of America, Inc. All rights reserved.
+            © 2026 Herbalife All rights reserved
           </p>
-          <p className="text-green-400 text-xs" style={{ fontFamily: '"Indie Flower", cursive' }}>
+          <p className="text-green-400 text-sm" style={{ fontFamily: '"Indie Flower", cursive' }}>
             Made with 🌿 for a healthier world
           </p>
         </div>
