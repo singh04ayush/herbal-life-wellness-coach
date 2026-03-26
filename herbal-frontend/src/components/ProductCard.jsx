@@ -11,7 +11,6 @@ const ProductCard = ({ product }) => {
 
   const formatImageUrl = (url) => {
     if (!url) return null;
-    // Replace /content/dam or /content/dam/herbalife with the correct CDN path
     const cleanPath = url.replace('/content/dam', '');
     return `${HERBALIFE_CDN}${cleanPath}`;
   };
@@ -24,82 +23,76 @@ const ProductCard = ({ product }) => {
       : null;
 
   const price = product.price;
-  const listPrice = product.list_price;
-  const hasDiscount = listPrice && price > listPrice;
+
+  // Map flavors to colors for the dot
+  const flavorColors = {
+    'Mango': '#fbbf24',
+    'Orange': '#f97316',
+    'Rose Kheer': '#f472b6',
+    'Vanilla': '#fef3c7',
+    'Chocolate': '#78350f',
+    'Kulfi': '#fde68a',
+    'Strawberry': '#f43f5e'
+  };
+  const dotColor = flavorColors[product.flavours] || '#2d5a27';
 
   return (
     <div
-      className="group relative bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-pointer border border-green-50"
+      className="group bg-[#f8f9f8] rounded-2xl overflow-hidden transition-all duration-300 cursor-pointer flex flex-col h-full"
       onClick={() => navigate(`/products/${product.sku}`)}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
     >
-      {/* Badge */}
-      {product.variant_tag && (
-        <span
-          className="absolute top-3 left-3 z-10 px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wide text-white"
-          style={{ background: '#2d5a27' }}
-        >
-          {product.variant_tag}
-        </span>
-      )}
-
-      {/* Image area */}
-      <div
-        className="relative overflow-hidden bg-green-50"
-        style={{ aspectRatio: '1' }}
-      >
-        {imageUrl ? (
-          <img
-            src={imageUrl}
-            alt=""
-            className="w-full h-full object-contain p-4 transition-transform duration-500 group-hover:scale-105"
-          />
-        ) : (
-          <div className="w-full h-full flex items-center justify-center">
-            <span className="text-5xl">🌿</span>
-          </div>
-        )}
-
-        {/* Hover overlay */}
-        <div
-          className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-4"
-          style={{ background: 'linear-gradient(to top, rgba(45,90,39,0.8), transparent)' }}
-        >
-          <span className="text-white text-sm font-semibold px-4 py-2 rounded-full border border-white/40 backdrop-blur-sm">
-            View Details →
+      {/* Image Area */}
+      <div className="relative p-6 pt-10 flex-shrink-0 flex items-center justify-center bg-transparent">
+        {product.variant_tag && (
+          <span className="absolute top-6 left-6 z-10 bg-[#234e1d] text-white text-[10px] font-bold px-3 py-1 rounded-full uppercase tracking-wider shadow-sm">
+            {product.variant_tag}
           </span>
-        </div>
-      </div>
-
-      {/* Content */}
-      <div className="p-4 space-y-2">
-        <p className="text-xs font-medium uppercase tracking-wide" style={{ color: '#4a8c42' }}>
-          {product.flavours || '—'}
-        </p>
-        <h3 className="font-semibold text-gray-800 text-sm leading-tight line-clamp-2">
-          {product.product_name}
-        </h3>
-        {product.variant_size && (
-          <p className="text-xs text-gray-400">{product.variant_size}</p>
         )}
-
-        {/* Price */}
-        <div className="flex items-center gap-2 pt-1">
-          <span className="font-bold text-base" style={{ color: '#2d5a27' }}>
-            ₹{price?.toLocaleString('en-IN')}
-          </span>
-          {hasDiscount && (
-            <span className="text-xs text-gray-400 line-through">
-              ₹{listPrice?.toLocaleString('en-IN')}
-            </span>
+        
+        <div className="w-full aspect-square relative flex items-center justify-center">
+          {imageUrl ? (
+            <img
+              src={imageUrl}
+              alt=""
+              className="w-full h-full object-contain transition-transform duration-500 group-hover:scale-105"
+            />
+          ) : (
+            <div className="text-4xl opacity-20">🌿</div>
           )}
         </div>
 
-        {/* Category pills */}
-        {product.size_count > 1 && (
-          <p className="text-xs text-gray-400">{product.size_count} sizes available</p>
-        )}
+        {/* Flavor Indicator */}
+        <div className="absolute bottom-4 left-4 flex items-center gap-2 bg-white/80 backdrop-blur-sm px-3 py-1.5 rounded-full shadow-sm">
+          <div 
+            className="w-2.5 h-2.5 rounded-full" 
+            style={{ background: dotColor }}
+          />
+          <span className="text-[10px] font-bold text-gray-700 capitalize">{product.flavours || 'Original'}</span>
+        </div>
+      </div>
+
+      {/* Content Area */}
+      <div className="p-5 pt-2 flex flex-col flex-1 bg-white">
+        <h3 className="font-bold text-gray-900 text-sm mb-1 line-clamp-2 leading-snug h-10">
+          {product.product_name}
+        </h3>
+        
+        <p className="text-[11px] text-gray-500 mb-4">
+          {product.variant_size} {product.size_count > 1 ? `| + ${product.size_count - 1} Size(s)` : ''}
+        </p>
+
+        <div className="mt-auto">
+          <div className="flex items-baseline gap-1.5">
+            <span className="text-base font-black text-gray-900">
+              ₹{price?.toLocaleString('en-IN')}.00
+            </span>
+            <span className="text-[9px] text-gray-400 font-medium uppercase tracking-tighter">
+              MRP (excl. of all taxes)
+            </span>
+          </div>
+        </div>
       </div>
     </div>
   );
