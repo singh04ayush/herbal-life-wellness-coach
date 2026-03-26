@@ -3,9 +3,14 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { useHerbal } from '../context/HerbalContext';
 import singleProductData from '../data/singleProduct.json';
 
-const HERBALIFE_CDN = 'https://www.herbalife.com/assets';
+const HERBALIFE_CDN = 'https://www.herbalife.com/dmassets';
 
 const SingleProduct = () => {
+  const formatImageUrl = (url) => {
+    if (!url) return null;
+    const cleanPath = url.replace('/content/dam', '');
+    return `${HERBALIFE_CDN}${cleanPath}`;
+  };
   const { sku } = useParams();
   const navigate = useNavigate();
   const { getProductBySku, allProducts } = useHerbal();
@@ -32,18 +37,18 @@ const SingleProduct = () => {
   // Image gallery
   const galleryImages = [
     defaultImage?.desktopImage?._publishUrl
-      ? `${HERBALIFE_CDN}${defaultImage.desktopImage._publishUrl}`
+      ? formatImageUrl(defaultImage.desktopImage._publishUrl)
       : null,
     ...additionalImages.map(img =>
       img.desktopImage?._publishUrl
-        ? `${HERBALIFE_CDN}${img.desktopImage._publishUrl}`
+        ? formatImageUrl(img.desktopImage._publishUrl)
         : null
     ),
   ].filter(Boolean);
 
   // Also pull thumbnail from list product
   const listThumb = productFromList?.thumbnail_image?.desktopImage?._publishUrl
-    ? `${HERBALIFE_CDN}${productFromList.thumbnail_image.desktopImage._publishUrl}`
+    ? formatImageUrl(productFromList.thumbnail_image.desktopImage._publishUrl)
     : null;
   const allImages = listThumb ? [listThumb, ...galleryImages] : galleryImages;
 
@@ -306,7 +311,7 @@ const SingleProduct = () => {
               {productTabs[activeTab]?.image?.desktopImage?._publishUrl && (
                 <div className="mt-6">
                   <img
-                    src={productTabs[activeTab].image.desktopImage._publishUrl}
+                    src={formatImageUrl(productTabs[activeTab].image.desktopImage._publishUrl)}
                     alt=""
                     className="rounded-2xl max-w-sm shadow-lg"
                     onError={e => (e.target.style.display = 'none')}

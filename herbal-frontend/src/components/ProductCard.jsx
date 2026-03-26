@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const HERBALIFE_CDN = 'https://www.herbalife.com/assets';
+const HERBALIFE_CDN = 'https://www.herbalife.com/dmassets';
 
 const ProductCard = ({ product }) => {
   const navigate = useNavigate();
@@ -9,11 +9,18 @@ const ProductCard = ({ product }) => {
 
   if (!product) return null;
 
+  const formatImageUrl = (url) => {
+    if (!url) return null;
+    // Replace /content/dam or /content/dam/herbalife with the correct CDN path
+    const cleanPath = url.replace('/content/dam', '');
+    return `${HERBALIFE_CDN}${cleanPath}`;
+  };
+
   const imageUrl =
     hovered && product.hover_image?.desktopImage?._publishUrl
-      ? `${HERBALIFE_CDN}${product.hover_image.desktopImage._publishUrl}`
+      ? formatImageUrl(product.hover_image.desktopImage._publishUrl)
       : product.thumbnail_image?.desktopImage?._publishUrl
-      ? `${HERBALIFE_CDN}${product.thumbnail_image.desktopImage._publishUrl}`
+      ? formatImageUrl(product.thumbnail_image.desktopImage._publishUrl)
       : null;
 
   const price = product.price;
