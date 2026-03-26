@@ -11,6 +11,7 @@ const ProductCard = ({ product }) => {
 
   const formatImageUrl = (url) => {
     if (!url) return null;
+    if (url.startsWith('http')) return url;
     const cleanPath = url.replace('/content/dam', '');
     return `${HERBALIFE_CDN}${cleanPath}`;
   };

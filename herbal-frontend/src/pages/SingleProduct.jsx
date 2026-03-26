@@ -8,6 +8,7 @@ const HERBALIFE_CDN = 'https://www.herbalife.com/dmassets';
 const SingleProduct = () => {
   const formatImageUrl = (url) => {
     if (!url) return null;
+    if (url.startsWith('http')) return url;
     const cleanPath = url.replace('/content/dam', '');
     return `${HERBALIFE_CDN}${cleanPath}`;
   };
@@ -18,19 +19,21 @@ const SingleProduct = () => {
   // Try to find product by SKU from context
   const productFromList = getProductBySku(sku);
 
-  // Build a display product using the singleProduct.json structure (for tabs/images)
-  // and the list product for pricing
-  const variant = singleProductData.variant;
-  const otherVariants = singleProductData.otherVariants;
+  // Only use the detailed JSON data if it matches the current SKU
+  // (In a real app, you'd fetch this by SKU)
+  const isMatch = sku === singleProductData.variant.sku || sku === '406K';
+  
+  const variant = isMatch ? singleProductData.variant : null;
+  const otherVariants = isMatch ? singleProductData.otherVariants : null;
   const productTabs = variant?.aemresponse?.productTabs || [];
   const additionalImages = variant?.aemresponse?.additionalImages || [];
   const defaultImage = variant?.aemresponse?.defaultImage;
 
   const displayProduct = productFromList || {
-    product_name: variant?.productName,
+    product_name: variant?.productName || "Product",
     price: variant?.price?.centAmount,
-    variant_size: '750 g',
-    flavours: 'Mango',
+    variant_size: '',
+    flavours: '',
     sku: sku,
   };
 
@@ -233,7 +236,7 @@ const SingleProduct = () => {
               </div>
             )}
 
-            {/* CTA */}
+            {/* CTA
             <div className="flex gap-4 pt-2">
               <button
                 className="flex-1 py-4 rounded-xl text-white font-semibold text-base shadow-lg hover:opacity-90 hover:-translate-y-0.5 transition-all"
@@ -247,7 +250,7 @@ const SingleProduct = () => {
               >
                 ♥ Save
               </button>
-            </div>
+            </div> */}
 
             {/* Trust badges */}
             <div className="flex flex-wrap gap-3 text-xs text-gray-500">
@@ -262,7 +265,7 @@ const SingleProduct = () => {
         {productTabs.length > 0 && (
           <div className="mt-16">
             {/* Tab headers */}
-            <div className="flex overflow-x-auto gap-0 border-b border-gray-200 mb-8">
+            <div className="flex overflow-x-auto gap-50 border-b border-gray-200 mb-8 no-scrollbar">
               {productTabs.map((tab, i) => (
                 <button
                   key={i}
@@ -281,7 +284,7 @@ const SingleProduct = () => {
 
             {/* Tab content */}
             <div
-              className="max-w-3xl"
+              className="max-w-none"
               style={{ animation: 'fadeIn 0.3s ease' }}
             >
               {productTabs[activeTab]?.description?.html && (

@@ -18,7 +18,7 @@ const milestones = [
     date: 'Jan 2022',
     title: 'Rock bottom moment',
     story:
-      'At 34, Rani Mishra was exhausted. Three kids, a demanding career, and 20 kg of extra weight that had crept up over a decade. She felt invisible in her own life — drained, sluggish, and quietly heartbroken.',
+      'At 34, Rani Mishra was exhausted. A 20 kg of extra weight that had crept up over a decade. She felt invisible in her own life — drained, sluggish, and quietly heartbroken.',
     emotion: '😞',
     stat: '82 kg',
     statLabel: 'Starting weight',
@@ -32,7 +32,7 @@ const milestones = [
     date: 'Feb 2022',
     title: 'A friend changed everything',
     story:
-      'Rani\'s colleague — an independent Herbalife distributor — simply handed her a Formula 1 shake after a meeting. "You look tired," she said. Rani laughed it off, but went home and cried. She decided: this was the moment to change.',
+      'Rani\'s friend — an independent Herbalife distributor — simply handed her a Formula 1 shake after a meeting. "You look tired," she said. Rani laughed it off, but went home and cried. She decided: this was the moment to change.',
     emotion: '💡',
     stat: 'Day 1',
     statLabel: 'Of her new life',
@@ -189,8 +189,8 @@ const Journey = () => {
                 <div className="flex flex-wrap gap-6">
                   {[
                     { n: '-22 kg', l: 'Lost' },
-                    { n: '4 yrs', l: 'Journey' },
-                    { n: '40+', l: 'Women coached' },
+                    { n: '2 yrs', l: 'Journey' },
+                    { n: '10+', l: 'Women coached' },
                   ].map(s => (
                     <div key={s.l} className="text-center">
                       <p className="text-4xl font-bold text-white" style={{ fontFamily: '"Caveat", cursive' }}>{s.n}</p>
