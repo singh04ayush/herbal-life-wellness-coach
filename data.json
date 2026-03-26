@@ -1,0 +1,1444 @@
+[
+    {
+        "l1Category": [
+            {
+                "category_name": "All Products",
+                "category_description": "<p>Whether your goal is to manage your weight, nourish your fitness journey, address specific nutritional needs, or refine your skincare regimen, our range of products have you covered.</p>\n",
+                "category_id": "all-products",
+                "sub_category_ids": [
+                    "performance",
+                    "fitness",
+                    "healthy-weight",
+                    "daily-nutrition",
+                    "targeted-health",
+                    "skin-body-care",
+                    "shakes",
+                    "teas-beverages",
+                    "vitamins-supplements",
+                    "skin-body"
+                ],
+                "permanentid": "1702168850",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "All Products",
+                "seo_meta_title": "All Herbalife Products | Full Catalog | Herbalife India",
+                "seo_meta_description": "Boost your wellness journey with Herbalife today! From weight management to skincare, our products will fulfill all your needs. Explore our catalog now!",
+                "seo_canonical_url": "all-products",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            }
+        ],
+        "category_results": [
+            {
+                "category_name": "Vitamins & Supplements",
+                "category_description": "Developed by experts and designed for you, choose from a range of vitamin and mineral supplements, formulated to help fill the gap in your dietary needs.",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "vitamins-supplements",
+                "permanentid": "1702168867",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Vitamins & Supplements",
+                "seo_meta_title": "Vitamins & Supplements | Herbalife India",
+                "seo_meta_description": "Fill the gap in your dietary needs with a variety of vitamins and supplements targeted around daily health, energy and immune support.",
+                "seo_canonical_url": "vitamins-supplements",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Performance",
+                "category_description": "<p>Whether you’re an active individual or training for an elite event, our performance products are tailored to meet your needs. Our Herbalife24® brand is Informed-Sport certified* further ensuring our products’ quality and suitability for athletes. *Tested for banned substances - This product is certified with Informed-Sport. The Informed-Sport programme provides assurance that products have been tested for a wide range of substances prohibited in sport. Every batch of this product is tested for banned substances under the Informed-Sport programme. For more information please visit www.informed-sport.com.</p>\n",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "performance",
+                "permanentid": "1702168416",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Performance",
+                "seo_meta_title": "Power Your Workouts with Herbalife24® | Herbalife India",
+                "seo_meta_description": "Power your performance with Herbalife24®, Rebuild Strength & Hydrate. Enhance energy, stamina & recovery. Try Herbalife sports nutrition now!",
+                "seo_canonical_url": "performance",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Shakes",
+                "category_description": "Achieve and maintain weight goals, nourish your fitness journey, or fill nutritional gaps with a variety of meal replacements and protein shakes. ",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "shakes",
+                "permanentid": "1702168855",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Shakes",
+                "seo_meta_title": "Shakes | Herbalife India",
+                "seo_meta_description": "Achieve and maintain weight goals, enhance performance, or fill nutritional gaps with a variety of meal replacement and protein shakes. ",
+                "seo_canonical_url": "shakes",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Targeted Health",
+                "category_description": "Ensure your body receives its daily requirements. Whether you want to support your immune system, digestive health or heart health, our array of products is designed to complement your diet and cater to your specific needs.",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "targeted-health",
+                "permanentid": "1702168897",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Targeted Health",
+                "seo_meta_title": "Targeted Health | Herbalife India",
+                "seo_meta_description": "Whether you want to support your immune system, bone and joint, digestive or heart health, our array of products is designed to complement your diet and cater to your specific needs. ",
+                "seo_canonical_url": "targeted-health",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Healthy Weight",
+                "category_description": "No matter your nutrition goals, we have shakes, snacks, beverages and supplementation to help you succeed, as well as programmes, designed to build healthy habits along the way.",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "healthy-weight",
+                "permanentid": "1702168872",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Healthy Weight",
+                "seo_meta_title": "Healthy Weight | Herbalife India",
+                "seo_meta_description": "​No matter your weight goals we have meal replacement shakes, beverages and supplementation to help you succeed and build healthy habits along the way.",
+                "seo_canonical_url": "healthy-weight",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Teas & Beverages",
+                "category_description": "​​Choose from a selection of teas, beverages and infusions, expertly formulated with aloe, caffeine, tea and herbal extracts, as well as key nutrients like protein, fibre, vitamins and minerals.​ ",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "teas-beverages",
+                "permanentid": "1702168861",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Teas & Beverages",
+                "seo_meta_title": "Teas & Beverages | Herbalife India",
+                "seo_meta_description": "Boost your energy, hydration, performance and protein with a variety of teas, beverages and infusions.",
+                "seo_canonical_url": "teas-beverages",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Fitness",
+                "category_description": "Whether you’re hitting the gym or embarking on an outdoor adventure, our fitness products are tailored to meet your needs. Our solutions are trusted and used by active individuals and fitness enthusiasts worldwide.",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "fitness",
+                "permanentid": "1702168886",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Fitness",
+                "seo_meta_title": "Fitness | Herbalife India",
+                "seo_meta_description": "Fuel your fitness journey with our protein and energy products, trusted and used by active individuals worldwide. ",
+                "seo_canonical_url": "fitness",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Daily Nutrition",
+                "category_description": "Ensure your body receives its daily requirements. Whether you need vitamins, protein, hydration or energy support, our array of products are designed to complement your diet and cater to your specific needs.",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "daily-nutrition",
+                "permanentid": "1702168891",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Daily Nutrition",
+                "seo_meta_title": "Daily Nutrition | Herbalife India",
+                "seo_meta_description": "Whether you need vitamin, protein, hydration or energy support, our array of products are designed to complement your diet and cater to your specific needs.",
+                "seo_canonical_url": "daily-nutrition",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Skin & Body Care",
+                "category_description": "Nourish your skin from within, with an expertly formulated collagen drink that's backed by science. ",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "skin-body-care",
+                "permanentid": "1702168902",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Skin & Body Care",
+                "seo_meta_title": "Skin & Body Care | Herbalife India",
+                "seo_meta_description": "Nourish your skin from within, with an expertly formulated collagen drink that's backed by science. ",
+                "seo_canonical_url": "skin-body-care",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            },
+            {
+                "category_name": "Skin & Body",
+                "category_description": "<p>Unlock the power of age-honoured ingredients.</p>\n<p>Inspired by Ayurveda, vritilife® Ayurvedic nutrition offers a range of outer nutrition products designed to achieve clean, soft, supple and nourished skin. Ayurveda as an ancient science of life has a long history, and its basic principles are valid even today. The vritilife products are based on Ayurvedic principles and contain authentic Ayurvedic herbs, for their specific health benefits as mentioned in ancient Ayurvedic texts. The vritilife® range is a perfect amalgamation of Ayurvedic principles and modern science. Carrying the goodness of Ayurveda, these products are crafted by Ayurvedic and modern scientific experts and contain both classical Ayurveda ingredients, formulations and researched ingredients which are sourced with precision to maintain quality. vritilife® skin care range includes: Facial Cleanser, Facial Toner, Facial Serum and Moisturizer.</p>\n",
+                "super_category_id": [
+                    "all-products"
+                ],
+                "category_id": "skin-body",
+                "permanentid": "1718746674368",
+                "category_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "category_banner_image_url": {
+                    "desktopImage": {},
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "footerData": {
+                    "image": {
+                        "desktopImage": {},
+                        "tabletImage": {},
+                        "mobileImage": {},
+                        "thumbnail_image": {}
+                    }
+                },
+                "seo_page_title": "Skin & Body",
+                "seo_meta_title": "Skin & Body | Herbalife India",
+                "seo_meta_description": "Achieve clean, soft, supple and nourished skin with vritilife® skin care products, inspired by Ayurveda - an ancient science using age-honoured ingredients.",
+                "seo_canonical_url": "skin-body",
+                "seo_robots_index_rule": "false",
+                "seo_robots_follow_rule": "false",
+                "seo_robots_allow_rule": "false"
+            }
+        ],
+        "subcategories": [],
+        "tabs": [
+            {
+                "id": "all-products",
+                "name": "All",
+                "isSelected": true
+            },
+            {
+                "id": "vitamins-supplements",
+                "name": "Vitamins & Supplements",
+                "isSelected": false
+            },
+            {
+                "id": "performance",
+                "name": "Performance",
+                "isSelected": false
+            },
+            {
+                "id": "shakes",
+                "name": "Shakes",
+                "isSelected": false
+            },
+            {
+                "id": "targeted-health",
+                "name": "Targeted Health",
+                "isSelected": false
+            },
+            {
+                "id": "healthy-weight",
+                "name": "Healthy Weight",
+                "isSelected": false
+            },
+            {
+                "id": "teas-beverages",
+                "name": "Teas & Beverages",
+                "isSelected": false
+            },
+            {
+                "id": "fitness",
+                "name": "Fitness",
+                "isSelected": false
+            },
+            {
+                "id": "daily-nutrition",
+                "name": "Daily Nutrition",
+                "isSelected": false
+            },
+            {
+                "id": "skin-body-care",
+                "name": "Skin & Body Care",
+                "isSelected": false
+            },
+            {
+                "id": "skin-body",
+                "name": "Skin & Body",
+                "isSelected": false
+            }
+        ],
+        "breadcrumbs": [
+            {
+                "title": "All Products",
+                "active": false
+            },
+            {
+                "title": "All",
+                "active": true
+            }
+        ],
+        "sorts": [
+            {
+                "value": "featured",
+                "isSelected": true
+            },
+            {
+                "value": "bestseller",
+                "isSelected": false
+            },
+            {
+                "value": "price_asc",
+                "isSelected": false
+            },
+            {
+                "value": "price_desc",
+                "isSelected": false
+            }
+        ],
+        "totalCount": 56,
+        "facets": [
+            {
+                "field": "flavours",
+                "values": [
+                    {
+                        "value": "Banana Caramel",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Chocolate",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Chocolicious",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Cinnamon",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Dutch Chocolate",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Elaichi",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Ginger",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Hibiscus",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Kashmiri Kahwa",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Kulfi",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    },
+                    {
+                        "value": "Lemon",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    },
+                    {
+                        "value": "Mango",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    },
+                    {
+                        "value": "Natural Tulsi",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Orange",
+                        "state": "idle",
+                        "numberOfResults": 3
+                    },
+                    {
+                        "value": "Orange Cream",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Paan",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Peach",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "Rose Kheer",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    },
+                    {
+                        "value": "Strawberry",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    },
+                    {
+                        "value": "Vanilla",
+                        "state": "idle",
+                        "numberOfResults": 3
+                    },
+                    {
+                        "value": "Watermelon",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    }
+                ]
+            },
+            {
+                "field": "variants_price",
+                "values": [
+                    {
+                        "start": 100,
+                        "end": 999999,
+                        "currency": "INR",
+                        "numberOfResults": 56,
+                        "isSelected": "idle",
+                        "value": "100-999999"
+                    }
+                ]
+            },
+            {
+                "field": "variant_size",
+                "values": [
+                    {
+                        "value": "10 Sachets",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "100 ml",
+                        "state": "idle",
+                        "numberOfResults": 3
+                    },
+                    {
+                        "value": "15 Sachets",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "20 Sachets",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "200 g",
+                        "state": "idle",
+                        "numberOfResults": 4
+                    },
+                    {
+                        "value": "30 Capsules",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "30 g",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "30 ml",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "30 Sachets",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    },
+                    {
+                        "value": "30 Tablets",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "300 g",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    },
+                    {
+                        "value": "40 g",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "400 g",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "5 g x 10",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "5 g x 30",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "50 g",
+                        "state": "idle",
+                        "numberOfResults": 6
+                    },
+                    {
+                        "value": "500 g",
+                        "state": "idle",
+                        "numberOfResults": 10
+                    },
+                    {
+                        "value": "500 ml",
+                        "state": "idle",
+                        "numberOfResults": 1
+                    },
+                    {
+                        "value": "60 Capsules",
+                        "state": "idle",
+                        "numberOfResults": 2
+                    },
+                    {
+                        "value": "60 Tablets",
+                        "state": "idle",
+                        "numberOfResults": 6
+                    },
+                    {
+                        "value": "750 g",
+                        "state": "idle",
+                        "numberOfResults": 4
+                    },
+                    {
+                        "value": "90 Tablets",
+                        "state": "idle",
+                        "numberOfResults": 5
+                    }
+                ]
+            },
+            {
+                "field": "color",
+                "values": []
+            }
+        ],
+        "currentFacets": [],
+        "products": [
+            {
+                "flavours": "Mango",
+                "sku_startdate": 1700854860000,
+                "sku_enddate": 32501952000000,
+                "price": 3227,
+                "list_price": 3073,
+                "currency": "INR",
+                "product_description": "<p>Delicious meal for healthy nutrition and weight management.</p>\n<p>&nbsp;</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "teas-beverages",
+                    "protein-boost",
+                    "by-need",
+                    "fitness",
+                    "protein",
+                    "weight-management",
+                    "shakes",
+                    "all-products",
+                    "healthy-weight",
+                    "by-type",
+                    "meal-replacement",
+                    "daily-nutrition"
+                ],
+                "product_name": "Formula 1 Nutritional Shake Mix",
+                "variant_size": "750 g",
+                "size_count": 2,
+                "flavor_count": 9,
+                "color_count": 0,
+                "swatch_flavor_urls": "mango---pdp-locked",
+                "suppress_promotion": "false",
+                "sister_flavor_urls": [
+                    "mango---pdp-locked",
+                    "orange-cream---pdp-locked",
+                    "paan---pdp-locked",
+                    "rose-kheer---pdp-locked",
+                    "strawberry---pdp-locked",
+                    "vanilla---pdp-locked",
+                    "banana-caramel---pdp-locked",
+                    "dutch-chocolate---pdp-locked",
+                    "kulfi---pdp-locked"
+                ],
+                "permanentid": "406K_IN",
+                "seo_canonical_url": "formula-1-shake-mango-750g-406k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "406K",
+                "product_id": "406K_IN",
+                "variant_tag": "New",
+                "productVolumePoints": "",
+                "productEarnBase": "2628",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-406k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Herbalife Formula 1 - Mango - prepared product",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-mango.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "flavours": "Rose Kheer",
+                "sku_startdate": 1700896260000,
+                "sku_enddate": 32501952000000,
+                "price": 3227,
+                "list_price": 3073,
+                "currency": "INR",
+                "product_description": "<p>Delicious meal for healthy nutrition and weight management.</p>\n<p>&nbsp;</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "teas-beverages",
+                    "protein-boost",
+                    "by-need",
+                    "fitness",
+                    "protein",
+                    "weight-management",
+                    "shakes",
+                    "all-products",
+                    "healthy-weight",
+                    "by-type",
+                    "meal-replacement",
+                    "daily-nutrition"
+                ],
+                "product_name": "Formula 1 Nutritional Shake Mix",
+                "variant_size": "750 g",
+                "size_count": 2,
+                "flavor_count": 9,
+                "color_count": 0,
+                "swatch_flavor_urls": "rose-kheer---pdp-locked",
+                "suppress_promotion": "false",
+                "sister_flavor_urls": [
+                    "rose-kheer---pdp-locked",
+                    "strawberry---pdp-locked",
+                    "vanilla---pdp-locked",
+                    "banana-caramel---pdp-locked",
+                    "dutch-chocolate---pdp-locked",
+                    "kulfi---pdp-locked",
+                    "mango---pdp-locked",
+                    "orange-cream---pdp-locked",
+                    "paan---pdp-locked"
+                ],
+                "permanentid": "408K_IN",
+                "seo_canonical_url": "formula-1-shake-rose-kheer-750g-408k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "408K",
+                "product_id": "408K_IN",
+                "variant_tag": "New",
+                "productVolumePoints": "",
+                "productEarnBase": "2628",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "Herbalife Formula 1 Nutritional Shake Mix Rose Kheer 750g",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-408k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Herbalife Formula 1 - Rose Kheer - prepared product",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-rose-kheer.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "flavours": "Orange",
+                "sku_startdate": 1700854860000,
+                "sku_enddate": 32501952000000,
+                "price": 3910,
+                "list_price": 3723,
+                "currency": "INR",
+                "product_description": "<p>Nourish your skin from within.</p>\n<p>&nbsp;</p>\n",
+                "loyaltyDiscountType": "Flat",
+                "category_id": [
+                    "teas-beverages",
+                    "skin-health",
+                    "vitamins-supplements",
+                    "collagen-boost",
+                    "targeted-health",
+                    "by-need",
+                    "all-products",
+                    "skin-body-care",
+                    "by-type"
+                ],
+                "product_name": "HN - Skin Booster",
+                "variant_size": "300 g",
+                "size_count": 2,
+                "flavor_count": 1,
+                "color_count": 0,
+                "swatch_flavor_urls": "orange---pdp-locked",
+                "suppress_promotion": "false",
+                "sister_flavor_urls": [
+                    "orange---pdp-locked"
+                ],
+                "permanentid": "316K_IN",
+                "seo_canonical_url": "hn-skin-booster-orange-300g-316k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "316K",
+                "product_id": "316K_IN",
+                "variant_tag": "New",
+                "productVolumePoints": "",
+                "productEarnBase": "2849",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "HN - Skin Booster orange flavour 300g product canister",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-316k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "HN - Skin Booster orange flavour 300 g prepared product",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-cbb-orange.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "flavours": "Vanilla",
+                "sku_startdate": 1700896260000,
+                "sku_enddate": 32501952000000,
+                "price": 3227,
+                "list_price": 3073,
+                "currency": "INR",
+                "product_description": "<p>Delicious meal for healthy nutrition and weight management.</p>\n<p>&nbsp;</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "teas-beverages",
+                    "protein-boost",
+                    "by-need",
+                    "fitness",
+                    "protein",
+                    "weight-management",
+                    "shakes",
+                    "all-products",
+                    "healthy-weight",
+                    "by-type",
+                    "meal-replacement",
+                    "daily-nutrition"
+                ],
+                "product_name": "Formula 1 Nutritional Shake Mix",
+                "variant_size": "750 g",
+                "size_count": 2,
+                "flavor_count": 9,
+                "color_count": 0,
+                "swatch_flavor_urls": "vanilla---pdp-locked",
+                "suppress_promotion": "false",
+                "sister_flavor_urls": [
+                    "vanilla---pdp-locked",
+                    "banana-caramel---pdp-locked",
+                    "dutch-chocolate---pdp-locked",
+                    "kulfi---pdp-locked",
+                    "mango---pdp-locked",
+                    "orange-cream---pdp-locked",
+                    "paan---pdp-locked",
+                    "rose-kheer---pdp-locked",
+                    "strawberry---pdp-locked"
+                ],
+                "permanentid": "407K_IN",
+                "seo_canonical_url": "formula-1-shake-vanilla-750g-407k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "407K",
+                "product_id": "407K_IN",
+                "variant_tag": "New",
+                "productVolumePoints": "",
+                "productEarnBase": "2628",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "Herbalife Formula 1 Nutritional Shake Mix Vanilla 750g",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-407k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Herbalife Formula 1 - Vanilla - prepared product",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1s-vanilla.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "sku_startdate": 1700854860000,
+                "sku_enddate": 32501952000000,
+                "price": 1165,
+                "list_price": 987,
+                "currency": "INR",
+                "product_description": "<p>Feel fresh on every wash.</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "skin-body",
+                    "by-need",
+                    "skin-care",
+                    "all-products",
+                    "skin-body-care",
+                    "by-type"
+                ],
+                "product_name": "Vritilife® Facial Cleanser (All skin types*)",
+                "variant_size": "100 ml",
+                "size_count": 1,
+                "flavor_count": 0,
+                "color_count": 0,
+                "suppress_promotion": "false",
+                "permanentid": "275K_IN",
+                "seo_canonical_url": "vritilife-facial-cleanser-100ml-275k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "275K",
+                "product_id": "275K_IN",
+                "variant_tag": "New",
+                "productVolumePoints": "",
+                "productEarnBase": "844",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "vritilife® Facial Cleanser 100 ml product canister",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-275k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Beautiful woman washing her face",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-beautiful-indian-woman-washing-her-face.jpg"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "sku_startdate": 1700854860000,
+                "sku_enddate": 32501952000000,
+                "price": 3022,
+                "list_price": 2561,
+                "currency": "INR",
+                "product_description": "<p>A synergy of Ayurveda's beauty oils to nourish and nurture the skin.</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "skin-body",
+                    "by-need",
+                    "skin-care",
+                    "all-products",
+                    "skin-body-care",
+                    "by-type"
+                ],
+                "product_name": "Vritilife® Facial Serum (Deep Nourishment)",
+                "variant_size": "30 ml",
+                "size_count": 1,
+                "flavor_count": 0,
+                "color_count": 0,
+                "suppress_promotion": "false",
+                "permanentid": "276K_IN",
+                "seo_canonical_url": "vritilife-facial-serum-30ml-276k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "276K",
+                "product_id": "276K_IN",
+                "variant_tag": "New",
+                "productVolumePoints": "",
+                "productEarnBase": "2190",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "vritilife® Facial Serum 30 ml product canister",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-276k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Beautiful woman with clear skin beauty shot",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-beautiful-indian-woman-clear-skin.jpg"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "sku_startdate": 1700854860000,
+                "sku_enddate": 32501952000000,
+                "price": 1322,
+                "list_price": 1120,
+                "currency": "INR",
+                "product_description": "<p>With the refreshing feel of Mandarin splash, experience the goodness of Aloe and cucumber.</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "skin-body",
+                    "by-need",
+                    "skin-care",
+                    "all-products",
+                    "skin-body-care",
+                    "by-type"
+                ],
+                "product_name": "Vritilife® Facial Toner (All skin types*)",
+                "variant_size": "100 ml",
+                "size_count": 1,
+                "flavor_count": 0,
+                "color_count": 0,
+                "suppress_promotion": "false",
+                "permanentid": "315K_IN",
+                "seo_canonical_url": "vritilife-facial-toner-100ml-315k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "315K",
+                "product_id": "315K_IN",
+                "variant_tag": "New",
+                "productVolumePoints": "",
+                "productEarnBase": "958",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "vritilife® Facial Toner 100 ml product canister",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-315k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Beautiful woman using pink jade roller",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-beautiful-indian-woman-skincare-routine.jpg"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "flavours": "Hibiscus",
+                "sku_startdate": 1700854860000,
+                "sku_enddate": 32501952000000,
+                "price": 1697,
+                "list_price": 1616,
+                "currency": "INR",
+                "product_description": "Drift to improve sleep quality^ with this plant-based health supplement.",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "sleep-support",
+                    "vitamins-supplements",
+                    "all-products",
+                    "by-type"
+                ],
+                "product_name": "Sleep Enhance™",
+                "variant_size": "30 g",
+                "size_count": 1,
+                "flavor_count": 1,
+                "color_count": 0,
+                "swatch_flavor_urls": "hibiscus---pdp-locked",
+                "suppress_promotion": "false",
+                "sister_flavor_urls": [
+                    "hibiscus---pdp-locked"
+                ],
+                "permanentid": "426K_IN",
+                "seo_canonical_url": "sleep-enhance-hibiscus-30g-426k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "426K",
+                "product_id": "426K_IN",
+                "variant_tag": "Featured",
+                "productVolumePoints": "",
+                "productEarnBase": "1382",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "Sleep Enhance™ 30 g Hibiscus product canister",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-426k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Sleeping Women",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/emeai/li-sleeping-woman.jpg"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "sku_startdate": 1693942860000,
+                "sku_enddate": 4099254060000,
+                "price": 1089,
+                "list_price": 1037,
+                "currency": "INR",
+                "product_description": "<p>An Ayurvedic way to digestive health.</p>\n<p>&nbsp;</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "vitamins-supplements",
+                    "targeted-health",
+                    "by-need",
+                    "digestive-health",
+                    "all-products",
+                    "by-type"
+                ],
+                "product_name": "Vritilife® Triphala ",
+                "variant_size": "60 Tablets",
+                "size_count": 1,
+                "flavor_count": 0,
+                "color_count": 0,
+                "suppress_promotion": "false",
+                "permanentid": "186K_IN",
+                "seo_canonical_url": "vritilife-triphala-60-tablets-186k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "186K",
+                "product_id": "186K_IN",
+                "variant_tag": "Featured",
+                "productVolumePoints": "",
+                "productEarnBase": "887",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "Herbalife Vritilife® Triphala 60 tablets",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-186k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "two women having friendly conversation with a cup of tea",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-women-in-conversation.jpg"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "sku_startdate": 1693942860000,
+                "sku_enddate": 32501952000000,
+                "price": 1245,
+                "list_price": 1185,
+                "currency": "INR",
+                "product_description": "<p>Tailored to promote women's general well-being during monthly hormonal fluctuation.</p>\n<p>&nbsp;</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "womens-health",
+                    "vitamins-supplements",
+                    "targeted-health",
+                    "by-need",
+                    "all-products",
+                    "by-type"
+                ],
+                "product_name": "Woman's Choice",
+                "variant_size": "30 Tablets",
+                "size_count": 1,
+                "flavor_count": 0,
+                "color_count": 0,
+                "suppress_promotion": "false",
+                "permanentid": "127K_IN",
+                "seo_canonical_url": "womans-choice-30-tablets-127k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "127K",
+                "product_id": "127K_IN",
+                "variant_tag": "Featured",
+                "productVolumePoints": "",
+                "productEarnBase": "1013",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "Herbalife Woman's Choice 30 tablets",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-127k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Two women having friendly conversation with a cup of tea",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-women-shopping-outside.jpg"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "sku_startdate": 1693942860000,
+                "sku_enddate": 32501952000000,
+                "price": 653,
+                "list_price": 621,
+                "currency": "INR",
+                "product_description": "<p>The perfect partner for your Formula 1 Nutritional Shake Mix.</p>\n<p>&nbsp;</p>\n",
+                "loyaltyDiscountType": "Flat",
+                "category_id": [
+                    "teas-beverages",
+                    "protein-boost",
+                    "by-need",
+                    "fitness",
+                    "protein",
+                    "protein-boosters",
+                    "shakes",
+                    "all-products",
+                    "healthy-weight",
+                    "by-type",
+                    "daily-nutrition"
+                ],
+                "product_name": "ShakeMate®",
+                "variant_size": "500 g",
+                "size_count": 1,
+                "flavor_count": 0,
+                "color_count": 0,
+                "suppress_promotion": "false",
+                "permanentid": "183K_IN",
+                "seo_canonical_url": "milk-replacement-500g-183k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "183K",
+                "product_id": "183K_IN",
+                "variant_tag": "Featured",
+                "productVolumePoints": "",
+                "productEarnBase": "306",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "Herbalife ShakeMate® 500g",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-183k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Woman drinking Formula 1 shake at home",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-woman-drinking-formula-1-shake.jpg"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            },
+            {
+                "sku_startdate": 1693942860000,
+                "sku_enddate": 4099254060000,
+                "price": 3410,
+                "list_price": 3247,
+                "currency": "INR",
+                "product_description": "<p>Get closer to your sexual wellness goals.</p>\n<p>&nbsp;</p>\n",
+                "loyaltyDiscountType": "None",
+                "category_id": [
+                    "vitamins-supplements",
+                    "targeted-health",
+                    "by-need",
+                    "all-products",
+                    "mens-health",
+                    "by-type"
+                ],
+                "product_name": "Male Factor +",
+                "variant_size": "60 Tablets",
+                "size_count": 1,
+                "flavor_count": 0,
+                "color_count": 0,
+                "suppress_promotion": "false",
+                "permanentid": "175K_IN",
+                "seo_canonical_url": "male-factor-60-tablets-175k",
+                "price_channels": "india_channel",
+                "splitAllowed": "N",
+                "isAvailable": true,
+                "sku": "175K",
+                "product_id": "175K_IN",
+                "variant_tag": "Featured",
+                "productVolumePoints": "",
+                "productEarnBase": "2776",
+                "productType": "P",
+                "thumbnail_image": {
+                    "altText": "Herbalife Male Factor + 60 tablets",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/market-reusable-assets/emea/india/images/canister/pc-175k-in.png"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                },
+                "hover_image": {
+                    "altText": "Confident man smiling outdoors",
+                    "desktopImage": {
+                        "_publishUrl": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-happy-confident-man-outdoors.jpg"
+                    },
+                    "tabletImage": {},
+                    "mobileImage": {},
+                    "thumbnail_image": {}
+                }
+            }
+        ]
+    }
+]

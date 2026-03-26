@@ -1,0 +1,477 @@
+{
+    "isProductAvailable": true,
+    "skuAvailableLimit": 100,
+    "uniqueLineItemSkuLimit": 20,
+    "isOnStock": true,
+    "lowInventoryThreshold": 100,
+    "availableQuantity": 2864,
+    "marketLevelCatalogThreshold": 100,
+    "otherVariants": {
+        "flavor": [
+            {
+                "text": "Mango",
+                "value": "406K",
+                "isAvailable": true,
+                "flavorName": "mango---pdp-locked",
+                "canonicalURL": "formula-1-shake-mango-750g-406k",
+                "availableQuantity": 2864,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Mango",
+                "value": "1249",
+                "isAvailable": true,
+                "flavorName": "mango---pdp-locked",
+                "canonicalURL": "formula-1-shake-mango-500g-1249",
+                "availableQuantity": 6460,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Orange Cream",
+                "value": "1269",
+                "isAvailable": true,
+                "flavorName": "orange-cream---pdp-locked",
+                "canonicalURL": "formula-1-shake-orange-cream-500g-1269",
+                "availableQuantity": 4666,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Paan",
+                "value": "287K",
+                "isAvailable": true,
+                "flavorName": "paan---pdp-locked",
+                "canonicalURL": "formula-1-shake-paan-500g-287k",
+                "availableQuantity": 1940,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Rose Kheer",
+                "value": "154K",
+                "isAvailable": true,
+                "flavorName": "rose-kheer---pdp-locked",
+                "canonicalURL": "formula-1-shake-rose-kheer-500g-154k",
+                "availableQuantity": 2146,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Rose Kheer",
+                "value": "408K",
+                "isAvailable": true,
+                "flavorName": "rose-kheer---pdp-locked",
+                "canonicalURL": "formula-1-shake-rose-kheer-750g-408k",
+                "availableQuantity": 1673,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Strawberry",
+                "value": "1239",
+                "isAvailable": true,
+                "flavorName": "strawberry---pdp-locked",
+                "canonicalURL": "formula-1-shake-strawberry-500g-1239",
+                "availableQuantity": 3308,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Vanilla",
+                "value": "407K",
+                "isAvailable": true,
+                "flavorName": "vanilla---pdp-locked",
+                "canonicalURL": "formula-1-shake-vanilla-750g-407k",
+                "availableQuantity": 2602,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Vanilla",
+                "value": "1247",
+                "isAvailable": true,
+                "flavorName": "vanilla---pdp-locked",
+                "canonicalURL": "formula-1-shake-vanilla-500g-1247",
+                "availableQuantity": 7053,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Banana Caramel",
+                "value": "082K",
+                "isAvailable": true,
+                "flavorName": "banana-caramel---pdp-locked",
+                "canonicalURL": "formula-1-shake-banana-caramel-500g-082k",
+                "availableQuantity": 2205,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Dutch Chocolate",
+                "value": "1248",
+                "isAvailable": true,
+                "flavorName": "dutch-chocolate---pdp-locked",
+                "canonicalURL": "formula-1-shake-dutch-chocolate-500g-1248",
+                "availableQuantity": 4967,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Kulfi",
+                "value": "409K",
+                "isAvailable": false,
+                "flavorName": "kulfi---pdp-locked",
+                "canonicalURL": "formula-1-shake-kulfi-750g-409k",
+                "availableQuantity": 0,
+                "maxQuantity": 100
+            },
+            {
+                "text": "Kulfi",
+                "value": "4114",
+                "isAvailable": true,
+                "flavorName": "kulfi---pdp-locked",
+                "canonicalURL": "formula-1-shake-kulfi-500g-4114",
+                "availableQuantity": 8358,
+                "maxQuantity": 100
+            }
+        ],
+        "size": [
+            {
+                "text": "750 g",
+                "value": "406K",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-mango-750g-406k",
+                "availableQuantity": 2864,
+                "maxQuantity": 100
+            },
+            {
+                "text": "750 g",
+                "value": "408K",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-rose-kheer-750g-408k",
+                "availableQuantity": 1673,
+                "maxQuantity": 100
+            },
+            {
+                "text": "750 g",
+                "value": "407K",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-vanilla-750g-407k",
+                "availableQuantity": 2602,
+                "maxQuantity": 100
+            },
+            {
+                "text": "750 g",
+                "value": "409K",
+                "isAvailable": false,
+                "canonicalURL": "formula-1-shake-kulfi-750g-409k",
+                "availableQuantity": 0,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "1249",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-mango-500g-1249",
+                "availableQuantity": 6460,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "1269",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-orange-cream-500g-1269",
+                "availableQuantity": 4666,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "287K",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-paan-500g-287k",
+                "availableQuantity": 1940,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "154K",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-rose-kheer-500g-154k",
+                "availableQuantity": 2146,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "1239",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-strawberry-500g-1239",
+                "availableQuantity": 3308,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "1247",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-vanilla-500g-1247",
+                "availableQuantity": 7053,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "082K",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-banana-caramel-500g-082k",
+                "availableQuantity": 2205,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "1248",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-dutch-chocolate-500g-1248",
+                "availableQuantity": 4967,
+                "maxQuantity": 100
+            },
+            {
+                "text": "500 g",
+                "value": "4114",
+                "isAvailable": true,
+                "canonicalURL": "formula-1-shake-kulfi-500g-4114",
+                "availableQuantity": 8358,
+                "maxQuantity": 100
+            }
+        ]
+    },
+    "variant": {
+        "sku": "406K",
+        "loyaltyDiscountType": "None",
+        "category_id": "protein-boost",
+        "category_name": "protein-boost",
+        "productName": "Formula 1 Nutritional Shake Mix",
+        "productType": "P",
+        "productId": "1706304088",
+        "productTag": "New",
+        "skuStartDate": "2023-11-24T19:41:00.000Z",
+        "skuEndDate": "2999-12-12T00:00:00.000Z",
+        "productVolumePoints": 32,
+        "productCustomerType": [
+            "Distributor",
+            "Customer"
+        ],
+        "productCategories": [
+            "1702168709",
+            "1702168891",
+            "1702168692",
+            "1702168886",
+            "1702168698",
+            "1702168455",
+            "1702168388",
+            "1702168861",
+            "1702168872",
+            "1702168747",
+            "1702168438",
+            "1702168855"
+        ],
+        "isMasterVariant": true,
+        "isPurchasable": true,
+        "defaultThresholdInventoryPerSku": 100,
+        "maxQuantity": 100,
+        "price": {
+            "country": "IN",
+            "centAmount": 3227,
+            "list_price": 3073,
+            "productEarnBase": 2628,
+            "currencyCode": "INR",
+            "channelkey": "india_channel",
+            "unitPrice": {
+                "currencyCode": "INR",
+                "list_price": 3073
+            }
+        },
+        "name": {
+            "en-IN": "Formula 1 Nutritional Shake Mix"
+        },
+        "description": {
+            "en-IN": "<p>Delicious meal for healthy nutrition and weight management.</p>\n<p>&nbsp;</p>\n"
+        },
+        "aemresponse": {
+            "_path": "/hn-one/en-in/product-catalog/sku/406k",
+            "skuId": "406K",
+            "skuType": "0",
+            "promotionalSku": "0",
+            "skuStartDate": "2023-11-25T12:41:00.000+05:30",
+            "isActive": "1",
+            "flavors": [
+                "product-catalog:attribute/flavor/mango---pdp-locked"
+            ],
+            "colors": [
+                ""
+            ],
+            "attributes": {
+                "flavor": {
+                    "attribute": "Flavor",
+                    "values": [
+                        "Mango"
+                    ]
+                },
+                "size1": {
+                    "attribute": "Product Size",
+                    "values": [
+                        "750 g"
+                    ]
+                }
+            },
+            "skuBadge": "1",
+            "badgeStartDate": "2025-05-05T12:41:00.000+05:30",
+            "badgeEndDate": "2025-10-10T12:41:00.000+05:30",
+            "product": {
+                "_path": "/hn-one/en-in/product-catalog/product/formula-1-shake",
+                "ecmId": "1706304088",
+                "productType": "P",
+                "productStartDate": "2023-09-06T03:11:00.000-06:00",
+                "productEndDate": "2099-09-06T03:11:00.000-06:00",
+                "isApparel": false,
+                "productBadge": "0",
+                "isSizeChartActive": false,
+                "locale": "en-IN",
+                "name": "Formula 1 Nutritional Shake Mix",
+                "shortDescription": {
+                    "html": "<p>Delicious meal for healthy nutrition and weight management.</p>\n<p>&nbsp;</p>\n"
+                },
+                "productOverview": {},
+                "keyBenefits": {},
+                "consumerUsage": {},
+                "fastFacts": {},
+                "specialNotes": {},
+                "productHighlights": []
+            },
+            "defaultImage": {
+                "altText": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g",
+                "ariaLabel": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g",
+                "desktopImage": {
+                    "_path": "/market-reusable-assets/emea/india/images/canister/pc-406k-in.png",
+                    "_publishUrl": "https://www.herbalife.com/assets/market-reusable-assets/emea/india/images/canister/pc-406k-in.png"
+                },
+                "thumbnailImage": {
+                    "_path": "/market-reusable-assets/emea/india/images/canister/pc-406k-in.png",
+                    "_publishUrl": "https://www.herbalife.com/assets/market-reusable-assets/emea/india/images/canister/pc-406k-in.png"
+                },
+                "thumbnailAltText": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g",
+                "thumbnailAriaLabelText": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g"
+            },
+            "additionalImages": [
+                {
+                    "altText": "Herbalife Formula 1 - Mango - prepared product",
+                    "ariaLabel": "Herbalife Formula 1 - Mango - prepared product",
+                    "desktopImage": {
+                        "_path": "/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-mango.png",
+                        "_publishUrl": "https://www.herbalife.com/assets/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-mango.png"
+                    },
+                    "thumbnailImage": {
+                        "_path": "/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-mango.png",
+                        "_publishUrl": "https://www.herbalife.com/assets/regional-reusable-assets/workflow/fusion/pdp/prepared-product/global/pp-f1-mango.png"
+                    },
+                    "thumbnailAltText": "Herbalife Formula 1 - Mango - prepared product",
+                    "thumbnailAriaLabelText": "Herbalife Formula 1 - Mango - prepared product"
+                },
+                {
+                    "altText": "Woman drinking Formula 1 shake at home",
+                    "ariaLabel": "Woman drinking Formula 1 shake at home",
+                    "desktopImage": {
+                        "_path": "/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-woman-drinking-formula-1-shake.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-woman-drinking-formula-1-shake.jpg"
+                    },
+                    "thumbnailImage": {
+                        "_path": "/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-woman-drinking-formula-1-shake.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-woman-drinking-formula-1-shake.jpg"
+                    },
+                    "thumbnailAltText": "Woman drinking Formula 1 shake at home",
+                    "thumbnailAriaLabelText": "Woman drinking Formula 1 shake at home"
+                }
+            ],
+            "video": [],
+            "locale": "en-IN",
+            "salesRank": 999999,
+            "suppressPromotion": false,
+            "pageTitle": "Formula 1 Nutritional Shake Mix",
+            "metaTitle": "Formula 1 Nutritional Shake Mix Mango flavour 750 g | Herbalife India",
+            "metaDescription": "Formula 1 Nutritional Shake Mix Mango flavour 750 g: delicious meal for healthy nutrition and weight management.",
+            "skuDisclaimer": {
+                "html": "<p>Food depicted in images and/or video are illustrative and do not represent product content.</p>\n"
+            },
+            "canonicalURL": "formula-1-shake-mango-750g-406k",
+            "robotsNoIndexRule": false,
+            "robotsNoFollowRule": false,
+            "robotsNoAllowRule": false,
+            "testimonial": {},
+            "productTabs": [
+                {
+                    "layout": "two-column",
+                    "title": "Overview",
+                    "description": {
+                        "html": "<div class=“ewa-rteLine“>Whether you're looking to manage weight, or you just want a convenient option for everyday health, Formula 1 Nutritional Shake Mix is the solution to give your body what it needs without sacrificing taste or convenience.</div><div class=“ewa-rteLine“>&nbsp;</div><div class=“ewa-rteLine“>Formula 1 Nutritional Shake Mix is your go-to meal replacement shake for a healthier lifestyle. If you&rsquo;re looking for an easy-to-make, delicious, on-the-go option for weight management or everyday health, Formula 1 Nutritional Shake Mix has you covered.</div><div class=“ewa-rteLine“>&nbsp;</div><div class=“ewa-rteLine“>Enjoy this shake as a nutritious alternative for one or two of your main meals, or simply as a way to improve your current diet. Formula 1 Nutritional Shake Mix is formulated to ensure you're getting the right balance of nutrients while keeping your calorie count in check.</div><div class=“ewa-rteLine“>&nbsp;</div><div class=“ewa-rteLine“>It provides a balanced blend of essential nutrients, including proteins, carbohydrates, healthy fats, vitamins and minerals. It's a smart and effective way to support your weight management or wellness goals without compromising your health or energy levels.</div><div class=“ewa-rteLine“>&nbsp;</div><div class=“ewa-rteLine“>Formula 1 Nutritional Shake Mix fits into your lifestyle exactly how you need it. With a variety of flavours, there is something to satisfy everyone's taste.</div>"
+                    },
+                    "descriptionLeft": {},
+                    "descriptionRight": {},
+                    "accordion": [],
+                    "image": {
+                        "altText": "Woman drinking Formula 1 shake at home",
+                        "ariaLabel": "Woman drinking Formula 1 shake at home",
+                        "desktopImage": {
+                            "_path": "/content/dam/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-woman-drinking-formula-1-shake.jpg",
+                            "_publishUrl": "https://www.herbalife.com/assets/regional-reusable-assets/workflow/fusion/pdp/lifestyle/india/li-woman-drinking-formula-1-shake.jpg"
+                        },
+                        "thumbnailAltText": "Woman drinking Formula 1 shake at home",
+                        "thumbnailAriaLabelText": "Woman drinking Formula 1 shake at home"
+                    },
+                    "ingredients": {},
+                    "allergenInfo": {},
+                    "productTabIndex": "pTabOverview"
+                },
+                {
+                    "layout": "single-column",
+                    "title": "Features and Benefits",
+                    "description": {
+                        "html": "<div class=“ewa-rteLine“><div class=“ewa-rteLine“><ul><li class=“ewa-rteLine“>Provides 9 g of high-quality protein* per serving</li><li class=“ewa-rteLine“>Provides 3 g of dietary fibre per serving</li><li class=“ewa-rteLine“>Contains 18 vitamins and minerals</li><li class=“ewa-rteLine“>Has approx. 94.2 Kcal (powder only) per serving</li><li class=“ewa-rteLine“>Is a Low Glycaemic Index food**</li><li class=“ewa-rteLine“>Contains 30 servings</li></ul><div class=“ewa-rteLine“>Please refer to product label for detailed information.</div><div class=“ewa-rteLine“>&nbsp;</div><div class=“ewa-rteLine“><em>*Protein Digestibility Corrected Amino Acid Score (PDCAAS) of 1</em></div><div class=“ewa-rteLine“><em>**Formula 1 Nutritional shake mix is tested for GI. The testing was conducted according to the Internationally recognized methodology (ISO 26642).</em></div>"
+                    },
+                    "descriptionLeft": {},
+                    "descriptionRight": {},
+                    "accordion": [],
+                    "ingredients": {},
+                    "allergenInfo": {},
+                    "productTabIndex": "pTabFeatures"
+                },
+                {
+                    "layout": "two-column",
+                    "title": "What's in it",
+                    "description": {},
+                    "descriptionLeft": {},
+                    "descriptionRight": {},
+                    "accordion": [],
+                    "image": {
+                        "altText": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g Nutritional Information",
+                        "ariaLabel": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g Nutritional Information",
+                        "desktopImage": {
+                            "_path": "/content/dam/market-reusable-assets/emea/india/images/nutritional-facts/pn-406k-in.jpg",
+                            "_publishUrl": "https://www.herbalife.com/assets/market-reusable-assets/emea/india/images/nutritional-facts/pn-406k-in.jpg"
+                        },
+                        "thumbnailAltText": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g Nutritional Information",
+                        "thumbnailAriaLabelText": "Herbalife Formula 1 Nutritional Shake Mix Mango 750g Nutritional Information"
+                    },
+                    "ingredients": {
+                        "html": "<p>Soy Protein Isolate, Fructose Powder, Lecithin Powder, Whey Protein Concentrate, Oat Fiber, Artificial mango flavouring substance, Stabilizer (Guar gum - INS 412), Inulin, Bulking Agent [Cellulose Powder - INS 460 (ii)], Soybean Oil Powder, Corn Powder, Calcium Caseinate, Potassium Chloride, Turmeric Rhizome Extract Powder, Minerals ,Diluent [Dicalcium Phosphate - INS 341 (ii)], Vitamins, Sodium Caseinate, Psyllium Husk Powder, Zingiber officinale Rhizome Powder, Emulsifier (Glyceryl monostearate - INS 471), Sweetener (Sucralose - INS 955), Stabilizer [Dipotassium hydrogen phosphate -INS 340 (ii)], Papain Powder, Antioxidant (Ascorbyl palmitate - INS 304).<br /> <br /> This contains Sucralose. CONTAINS NON-CALORIC SWEETENER.</p>"
+                    },
+                    "allergenInfo": {
+                        "html": "CONTAINS MILK, SOY & OATS."
+                    },
+                    "productTabIndex": "pTabIngredients"
+                },
+                {
+                    "layout": "single-column",
+                    "title": "How to use",
+                    "description": {
+                        "html": "<p>INSTRUCTION OF USE:</p><p>Gently shake the canister prior to each use as contents may settle.</p><p>For meal replacement - Simply blend, shake or stir 25 g (3 scoops) of Formula 1 with 300 ml of skimmed milk OR 25 g (3 scoops) of Formula 1 with 2 scoops of Shakemate with 300 ml water and enjoy.</p><p>Not to exceed the recommended daily usage.</p><p>RECOMMENDED USAGE LEVEL:</p><p>For Weight Control: Replace two meals daily with a Formula 1 shake and eat one nutritious meal to support weight loss.</p><p>For Weight Management: Replace one meal daily with a Formula 1 shake to maintain/manage your weight.</p><p>Target consumer group : Adults</p><p>This product is not for parenteral use. The product is not to be used by pregnant, nursing, and lactating women or children under 5 years, adolescents and elderly, except when medically advised by physician or certified dietician or nutrition professional. This product is not intended to diagnose, treat, cure or prevent any disease. Herbalife products are designed for use by adults as a part of a healthy well-balanced diet. Our products are formulated for adults and are labelled based on the adult Recommended Dietary Allowances. Before using this product as part of a weight control/ management program it is also advisable to consult a physician. Herbalife does not recommend (except under the supervision of a physician) that children/adolescents consume Herbalife products for weight loss, especially during their formative years.</p><p>Store with lid tightly closed in a cool, dry place, away from sunlight. Recommended to consume the product within 30 days once the canister is opened. Product is required to be stored out of reach of children.</p>"
+                    },
+                    "descriptionLeft": {},
+                    "descriptionRight": {},
+                    "accordion": [],
+                    "ingredients": {},
+                    "allergenInfo": {},
+                    "productTabIndex": "pTabInstructions"
+                }
+            ],
+            "wellnessProductTagsDescription": []
+        }
+    }
+}
